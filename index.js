@@ -149,10 +149,10 @@ Aşağıdakileri konsolda gösterim (console.log) işlemi gerçekleştirerek, yu
 (işlev yazmanıza gerek yok) */
 
 //(1) Dizideki ilk fenomen (0. dizin) profil (profile) adı
-
+console.log(fenomenler[0].profile);
 
 //(2) Dizideki üçüncü fenomenin (2. dizin) takipçi (followers) sayısı
-
+console.log(fenomenler[0].profile);
 
 /* Görev 2 (otomatik kontrol testi yapılmayacak):
 (işlev yazmanıza gerek yok)
